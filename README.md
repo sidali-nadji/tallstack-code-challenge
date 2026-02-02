@@ -48,7 +48,7 @@ The dashboard should show live (or near-live) data without requiring full page r
 
 Your solution should:
 
-- Display data for **~5 major cryptocurrencies** in USD (Api prices are in USD)
+- Display data for **~5 major cryptocurrencies** in USD (API prices are in USD)
 - Show key market information such as:
   - Coin name / symbol
   - Current price

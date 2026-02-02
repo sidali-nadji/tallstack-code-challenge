@@ -56,6 +56,7 @@ Your solution should:
   - Market cap (nicely formatted)
 - Keep data reasonably fresh (automatic or manual refresh is fine)
 - Include **at least one interactive element** that affects what is displayed (for example: selecting a coin, highlighting it, showing details, etc.)
+- ** We do not expect you to style the application, we are only interested in the code quality and the way you use Livewire and Laravel. **, unless you want to.
 
 How you structure components and manage state is up to you.
 
